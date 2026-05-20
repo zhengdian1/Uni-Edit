@@ -1,0 +1,7 @@
+wandb
+__pycache__
+.vscode
+*.ipynb_checkpoints
+.DS_Store
+proj_page/
+touming.py
