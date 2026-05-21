@@ -127,7 +127,7 @@ See [DATA](https://github.com/zhengdian1/Uni-Edit/tree/main/data_gen/README.md) 
 @article{zheng2026uniedit,
   title   = {Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning},
   author  = {Zheng, Dian and Zhang, Manyuan and Li, Hongyu and Liu, Hongbo and Zou, Kai and Feng, Kaituo and Li, Hongsheng},
-  journal = {},
+  journal = {arXiv preprint arXiv:2605.21487},
   year    = {2026}
 }
 ```
