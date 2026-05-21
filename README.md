@@ -9,7 +9,7 @@
       alt="Uni-Edit Website"
     />
   </a>
-  <a href="assets/paper.pdf">
+  <a href="https://arxiv.org/pdf/2605.21487">
     <img
       src="https://img.shields.io/badge/Uni--Edit-Paper-red?logo=arxiv&logoColor=red"
       alt="Uni-Edit Paper"
